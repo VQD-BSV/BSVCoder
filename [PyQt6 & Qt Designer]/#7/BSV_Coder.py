@@ -11,7 +11,7 @@ class MainWindow:
         self.uic.nut.clicked.connect(self.test)
         # bạn có thể xoá dấu # để code hoạt động "# là chú thích comment sẽ không ảnh hướng đến code"
      #   self.uic.verticalSlider.valueChanged.connect(self.value_silder)
-
+    # Bạn có thể thay label bằng label khác ở đây nó sẽ thay label của Ten cua ban thanh giatri
     # def value_silder(self):
     #     self.uic.label.setText(giatri)
 
