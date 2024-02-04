@@ -1,4 +1,7 @@
 # BSVCoder
+## Author
+JpegRecovery is developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
+
 ## Usage
 Bạn thấy có folder # + bài (ví dụ: #3) là bài 3, code của bài tôi luôn để trong folder tương ứng. <br>
 Xem video [Youtube](https://www.youtube.com/playlist?list=PLIdTPrZ007WmFL4DVa6pzY6kT4IMieiyb) trên kênh [BSV Coder](https://www.youtube.com/@BSVCoder)
